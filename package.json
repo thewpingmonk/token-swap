@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "bignumber.js": "^4.1.0",
+    "qs": "^6.11.2",
+    "web3": "^4.1.0"
+  }
+}
